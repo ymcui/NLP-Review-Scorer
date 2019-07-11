@@ -52,5 +52,8 @@ emnlp2019   2.011398    3.8701794
 ## Disclaimer
 This is not a product by HFL. 
 
+## Acknowledgement
+I thank Google Colab for providing free computing resources for researchers.
+
 ## Issue
 If there is any problem, please submit a GitHub Issue.
