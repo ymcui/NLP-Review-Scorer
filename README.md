@@ -9,11 +9,9 @@ In this notebook, you will be able to **convert your review to overall score (ho
 
 **As the notebook will run under YOUR CONTROL, please rest assured that your review won't be recorded in any form and I have no access to it.**
 
-## Quick introduction
-The model is trained on 3K real reviews from [PeerRead dataset](https://github.com/allenai/PeerRead) as well as in-house collected reviews for training. 
+## Quick Introduction
+The model is trained on 3K real reviews from [PeerRead dataset](https://github.com/allenai/PeerRead) as well as in-house collected reviews for training. Note that, we only include the reviews with open access, and the private reviews without author permissions are not included. 
 The implementation was based on `run_classifier.py` in [BERT repository](https://github.com/google-research/bert) with slight modifications.
-
-Included venue: ACL, EMNLP, CoNLL, NAACL, COLING, ICLR (scores are scaled to 1~5)
 
 **As the review data is rather private, I won't be able to release them.**
 
