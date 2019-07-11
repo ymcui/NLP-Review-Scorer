@@ -25,7 +25,11 @@ The implementation was based on `run_classifier.py` in [BERT repository](https:/
 ## Sample Output
 ```
 **************REVIEW***********
-this is a very good paper, outstanding paper, brilliant paper. I have never seen such a good paper before. It was well-written and the models are novel. The evaluations are sound and the results achieve state-of-the-art performance. It should be definitely accepted or I will be angry.
+this is a very good paper, outstanding paper, brilliant paper. 
+I have never seen such a good paper before. 
+It was well-written and the models are novel. 
+The evaluations are sound and the results achieve state-of-the-art performance. 
+It should be definitely accepted or I will be angry.
 **************SCORE***********
 paper   recommendation  confidence
 emnlp2019   3.4766932   3.4420846
@@ -35,7 +39,9 @@ emnlp2019   3.4766932   3.4420846
 ​
 ```
 **************REVIEW***********
-The paper was rather bad that I don't want to see it again. The idea was trivial and the evaluations are not convincing to me at all. We should reject this paper or I won't review for this venue in the future,
+The paper was rather bad that I don't want to see it again. 
+The idea was trivial and the evaluations are not convincing to me at all. 
+We should reject this paper or I won't review for this venue in the future,
 **************SCORE***********
 paper   recommendation  confidence
 emnlp2019   2.011398    3.8701794
