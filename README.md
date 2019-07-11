@@ -1,8 +1,8 @@
 # NLP Review Scorer
 
-**Disclamer: This is only a toy. You should seriously treat your rebuttal despite the what scores are give below. Wish you good luck for your paper submission!**
+**Disclaimer: This is only a toy. You should seriously treat your rebuttal despite the what scores are given below. Wish you good luck with your paper submission!**
 
-I know some of you are thinking about how to conver my review to numerical score.
+I know some of you are thinking about how to convert paper review to a numerical score.
 Yes, the time has come.
 
 In this notebook, you will be able to **convert your review to overall score (hopefully in range 1~5) as well as reviewer confidence.**
