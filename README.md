@@ -14,6 +14,7 @@ The implementation was based on `run_classifier.py` in [BERT repository](https:/
 **As the review data is rather private, I won't be able to release them.**
 
 ## Prerequisites
+- Copy (do not need to download) the latest model to your Google Drive: https://drive.google.com/open?id=1WsMm_h_cHgj0gEDvfELmLzklVul9GOjU
 - You should know how to use [Google Colab](http://colab.research.google.com)
 - You are somewhat familiar with [BERT](https://github.com/google-research/bert)
 
