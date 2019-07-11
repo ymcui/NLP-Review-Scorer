@@ -13,6 +13,8 @@ In this notebook, you will be able to **convert your review to overall score (ho
 The model is trained on 3K real reviews from [PeerRead dataset](https://github.com/allenai/PeerRead) as well as in-house collected reviews for training. 
 The implementation was based on `run_classifier.py` in [BERT repository](https://github.com/google-research/bert) with slight modifications.
 
+Included venue: ACL, EMNLP, CoNLL, NAACL, COLING, ICLR (scores are scaled to 1~5)
+
 **As the review data is rather private, I won't be able to release them.**
 
 ## Prerequisites
