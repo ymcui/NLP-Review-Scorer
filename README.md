@@ -38,7 +38,6 @@ emnlp2019   3.4766932   3.4420846
 ********************************
 ```
 ​
-​
 ```
 **************REVIEW***********
 The paper was rather bad that I don't want to see it again. 
