@@ -7,6 +7,8 @@ Yes, the time has come.
 
 In this notebook, you will be able to **convert your review to overall score (hopefully in range 1~5) as well as reviewer confidence.**
 
+**As the notebook will run under YOUR CONTROL, please rest assured that your review won't be recorded in any form and I have no access to it.**
+
 ## Quick introduction
 The model is trained on 3K real reviews from [PeerRead dataset](https://github.com/allenai/PeerRead) as well as in-house collected reviews for training. 
 The implementation was based on `run_classifier.py` in [BERT repository](https://github.com/google-research/bert) with slight modifications.
@@ -48,6 +50,8 @@ emnlp2019   2.011398    3.8701794
 ********************************
 ```
 
+## Disclaimer
+This is not a product by HFL. 
 
 ## Issue
 If there is any problem, please submit a GitHub Issue.
