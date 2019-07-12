@@ -12,7 +12,8 @@ In this notebook, you will be able to **convert your paper review to overall sco
 In my own experience, the prediction on reviewer confidence is not that accurate.
 
 ## News
-**July 12, 2019	New model trained on 5.7K reviews is available. *Seems to be more accurate*. **
+**July 12, 2019	New model trained on 5.7K reviews is available. *Seems to be more accurate*.**
+
 July 11, 2019	Initial version released, trained on 3K reviews.
 
 ## Quick Introduction
