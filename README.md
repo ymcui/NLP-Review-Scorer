@@ -27,12 +27,13 @@ The implementation was based on `run_classifier.py` in [BERT repository](https:/
 - You are somewhat familiar with [BERT](https://github.com/google-research/bert)
 
 ## How-To
-1. Copy (do not need to download) the one of the following model to your Google Drive
-- V2, latest version trained with 5.7K reviews: [Google Drive](https://drive.google.com/open?id=1HBauWO1kjvhyQcerXbq9NPzJaBAcW0bZ)
-- V1, initial version trained with 3K reviews: [Google Drive](https://drive.google.com/open?id=1WsMm_h_cHgj0gEDvfELmLzklVul9GOjU)
+1. Copy (do not need to download) the one of the following model to your Google Drive  
+| Model | Training Data | MAE @ Dev | Link | 
+| :------ | :-----: | :-----: | :-----: | 
+| v2 (latest) | 5.7k | 0.35 | [Google Drive](https://drive.google.com/open?id=1HBauWO1kjvhyQcerXbq9NPzJaBAcW0bZ) |
+| v1 | 3k | 0.5 | [Google Drive](https://drive.google.com/open?id=1WsMm_h_cHgj0gEDvfELmLzklVul9GOjU) |
 
 2. Then, [go to Google Colab for further instructions](https://colab.research.google.com/drive/1AmmRUJa3_ZhFrpRsz7ovar6-L-sV62tU)
-
 
 ## Sample Output (v2 version)
 Note that, in real situations, your input review will be much longer than these examples!
