@@ -27,7 +27,8 @@ The implementation was based on `run_classifier.py` in [BERT repository](https:/
 - You are somewhat familiar with [BERT](https://github.com/google-research/bert)
 
 ## How-To
-1. Copy (do not need to download) the one of the following model to your Google Drive  
+1. Copy (do not need to download) the one of the following model to your Google Drive.
+
 | Model | Training Data | MAE @ Dev | Link | 
 | :------ | :-----: | :-----: | :-----: | 
 | v2 (latest) | 5.7k | 0.35 | [Google Drive](https://drive.google.com/open?id=1HBauWO1kjvhyQcerXbq9NPzJaBAcW0bZ) |
